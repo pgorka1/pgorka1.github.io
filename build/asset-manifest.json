@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "pgorka1.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "pgorka1.github.io/static/js/main.a3a0a0fb.chunk.js",
+    "main.js.map": "pgorka1.github.io/static/js/main.a3a0a0fb.chunk.js.map",
+    "runtime-main.js": "pgorka1.github.io/static/js/runtime-main.24b359a1.js",
+    "runtime-main.js.map": "pgorka1.github.io/static/js/runtime-main.24b359a1.js.map",
+    "static/js/2.6a2a7794.chunk.js": "pgorka1.github.io/static/js/2.6a2a7794.chunk.js",
+    "static/js/2.6a2a7794.chunk.js.map": "pgorka1.github.io/static/js/2.6a2a7794.chunk.js.map",
+    "index.html": "pgorka1.github.io/index.html",
+    "precache-manifest.fd48b3f193796bbf33c8ea81b0fbec8a.js": "pgorka1.github.io/precache-manifest.fd48b3f193796bbf33c8ea81b0fbec8a.js",
+    "service-worker.js": "pgorka1.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "pgorka1.github.io/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24b359a1.js",
+    "static/js/2.6a2a7794.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a3a0a0fb.chunk.js"
+  ]
+}
